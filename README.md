@@ -1,5 +1,6 @@
 ![Build](https://github.com/iwonakulacz/testMediaStore/workflows/Build/badge.svg?branch=master&event=push)
 ![Tests](https://github.com/iwonakulacz/testMediaStore/workflows/Tests/badge.svg?branch=master&event=push)
+
 # Installation
 
 MediaStore SDK repo is marked as a template so you can easily move it directly to your GitHub account. To do so, login to your Github account and use the template option as shown in the screenshot below.
